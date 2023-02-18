@@ -11,4 +11,4 @@ for ids, url in next, games do
     end
 end
 
-loadstring(game:HttpGet())()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/comet3456998765/Supportsystem/main/file.lua"))()
